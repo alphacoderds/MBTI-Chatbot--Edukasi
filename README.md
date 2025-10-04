@@ -11,6 +11,7 @@ Aplikasi chatbot berbasis **Streamlit** yang dapat:
 - 🔄 Reset percakapan dengan mudah.
 
 ## ✨ Yuk Coba
+https://mbti-chatbot-edukasi-wejeksbguywbnoburxcuwb.streamlit.app/
 
 ## 📦 Instalasi
 1. Clone repo:
